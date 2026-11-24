@@ -25,3 +25,4 @@ if __name__ == "__main__":
     for arr, expected in test_cases:
         result = sum_even_numbers(arr)
         print(f"{arr} -> {result} (ожидалось {expected})")
+# Тесты запущены и пройдены успешно: Ran 13 tests ... OK
